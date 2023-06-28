@@ -1,0 +1,35 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: #010950;
+}
+
+.o_gusta_lima_ai{
+  background-color: rgb(35, 4, 65);
+  color: rgb(52, 197, 38);
+}
+
+.nome_qualquer button{ 
+  margin-top: 30px;
+  width: 130px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+#mamaco{
+  color: white;
+}
+
+#nova{
+  color: white;
+}
+
+.heitor{
+  position: fixed;
+  color: rgb(216, 61, 14);
+  text-shadow: 5px 5px 5px rgb(0, 0, 0);
+  bottom: 0;
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+}
